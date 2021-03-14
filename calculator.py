@@ -12,5 +12,5 @@ def multiply(a, b):
     return a * b
 
 
-def divice(a, b):
+def divice_free(a, b):
     return a / b
