@@ -14,7 +14,3 @@ def multiply(a, b):
 
 def divide_new(a, b):
     return a / b
-
-
-fun say_hello():
-    return 'Hello world!'
